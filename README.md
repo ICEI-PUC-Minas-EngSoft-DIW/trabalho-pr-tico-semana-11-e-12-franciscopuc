@@ -6,24 +6,21 @@ Para esse projeto, além de mudarmos o JSON para o JSON Server, vamos permitir o
 
 ## Informações do trabalho
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Francisco Maycon Lima Castro
+- Matricula: 900399
+- Proposta de projeto escolhida: Melhores Filmes de Cada Ano
+- Breve descrição sobre seu projeto: Os vencedores de Melhor Filme do Oscar de cada Ano
 
 **Print dos testes da API com Postman ou similar**
 
-<< COLOQUE A IMAGEM GET AQUI >>
-
-<< COLOQUE A IMAGEM POST AQUI >>
-
-<< COLOQUE A IMAGEM PUT AQUI >>
-
-<< COLOQUE A IMAGEM DELETE AQUI >>
+![Imagem GET](/imgs-readme/GET.png)
+![Imagem POST](/imgs-readme/POST.png)
+![Imagem PUT](/imgs-readme/PUT.png)
+![Imagem DELETE](/imgs-readme/DELETE.png)
 
 **Print da aba NETWORK com requisições Fetch/XHR POST e GET**
 
-<<  COLOQUE A IMAGEM AQUI >>
+![Imagem DELETE](/imgs-readme/NETWORK.png)
 
 ## **Orientações Gerais**
 
